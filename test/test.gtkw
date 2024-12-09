@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Mon Dec  9 14:19:43 2024
+[*]
+[dumpfile] "/home/matt/work/asic-workshop/course/cocotb-refresh/test/test.vcd"
+[dumpfile_mtime] "Mon Dec  9 14:19:14 2024"
+[dumpfile_size] 625
+[savefile] "/home/matt/work/asic-workshop/course/cocotb-refresh/test/test.gtkw"
+[timestart] 0
+[size] 1704 679
+[pos] -1 -1
+*-24.600000 10000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 333
+[signals_width] 200
+[sst_expanded] 1
+[sst_vpaned_height] 184
+@28
+test.clk
+@22
+test.count[7:0]
+@29
+test.reset
+[pattern_trace] 1
+[pattern_trace] 0
